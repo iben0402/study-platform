@@ -1,2 +1,2 @@
 # study-platform
-Web app similar to quizlet but with extension for “quizess" method - WORK IN PROGRESS 
+Web app targetet for students. It is supposed to help students study for tests. There are plans for multiple study modes (for example similar to quizlet) 
